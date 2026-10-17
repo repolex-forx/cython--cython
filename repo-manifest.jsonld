@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cython/cython/commit/2fc896931ef3f47c3b0ea733cd7e81428a96d8d1",
       "git:hexsha": "2fc896931ef3f47c3b0ea733cd7e81428a96d8d1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T22:32:12.118606+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cython/cython/commit/34d912c19c64264fc86e69006e8643c4c3525b6f",
